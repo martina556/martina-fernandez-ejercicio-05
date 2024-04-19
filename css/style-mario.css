@@ -1,0 +1,59 @@
+body{
+  background-color: #e11364;s
+}
+
+.page {
+  margin: 0 8rem;
+}
+
+.titulo {
+  text-align: center;
+  background-color: #bc105c;
+  border-left: 3px white solid;
+  border-right: 3px white solid;
+  padding: 1rem;
+  color: white;
+}
+
+.img-mario {
+  width: 45%;
+  float: left;
+  margin-right: 1rem;
+}
+
+.content {
+  background-color: #bc105c;
+  padding: 1rem;
+  border-radius: 8px;
+}
+
+.mario {
+  background-color: white;
+  padding: 11px;
+  margin-bottom: 2rem;
+  border-radius: 4px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.boton {
+  width: 100%;
+  text-align: center;
+}
+
+.boton-volver {
+  background-color: #e96093;
+  padding: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  font-weight: bold;
+  border-radius: 5px;
+}
+
+.subti {
+  width: 10%;
+  background-color: #e96093;
+  color: white;
+  font-family: arial;
+  border-radius: 7px;
+  text-align: center;
+}

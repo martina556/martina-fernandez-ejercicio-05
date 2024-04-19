@@ -1,0 +1,87 @@
+body {
+  background-color: #e11364;
+}
+
+.subtitulo-blanco {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+.principal {
+  margin: 0 8rem;
+}
+
+.titulo {
+  text-align: center;
+  background-color: #bc105c;
+  border-left: 3px white solid;
+  border-right: 3px white solid;
+  padding: 1rem;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.contenido {
+  background-color: #bc105c;
+  padding: 1rem;
+  border-radius: 8px;
+  margin: 0 8rem;
+}
+
+.mario {
+  background-color: white;
+  padding: 11px;
+  margin-bottom: 2rem;
+  border-radius: 4px;
+}
+
+.subtitulo {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #bc105c;
+  text-align: right;
+  border-bottom: 2px dotted;
+}
+
+.text {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: small;
+}
+
+.mortal-kombat {
+  background-color: white;
+  padding: 11px;
+  border-radius: 4px;
+}
+
+.boton {
+  width: 100%;
+  text-align: center;
+}
+
+.boton-comprar {
+  background-color: #2c8f20;
+  padding: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  font-weight: bold;
+  border-radius: 5px;
+}
+
+.boton-comprar:hover {
+  background-color: #e11364;
+}
+.juegos-img {
+  width: 100%;
+}
+
+footer {
+  text-align: center;
+  background-color: #e96093;
+  padding: 5px;
+  margin: 2rem 8rem;
+  font-family: arial;
+  color: white;
+  font-weight: bold;
+  border-radius: 4px;
+}
