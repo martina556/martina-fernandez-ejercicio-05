@@ -26,14 +26,12 @@ body {
   font-family: silkscreen;
 }
 
-
 .contenido {
   display: flex;
   flex-direction: row;
   justify-content: space-around;
 }
 .mario {
-
   border-radius: 4px;
   border: 2px solid #048ba8;
   width: 45%;
@@ -52,7 +50,7 @@ body {
   padding: 1rem;
   border-radius: 10rem;
   font-size: 20px;
-
+}
 
 .text {
   font-family: play;
@@ -61,7 +59,6 @@ body {
 }
 
 .mortal-kombat {
-
   border-radius: 4px;
   border: 2px solid #048ba8;
   width: 45%;
