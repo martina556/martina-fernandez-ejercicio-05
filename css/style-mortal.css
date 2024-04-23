@@ -6,7 +6,7 @@ body {
   margin: 0 8rem;
 }
 
-.titulo {
+.titulo-mortal {
   text-align: center;
   background-color: #bc105c;
   border-left: 3px white solid;
@@ -26,6 +26,7 @@ body {
   background-color: #bc105c;
   padding: 1rem;
   border-radius: 8px;
+  margin-top: 1rem;
 }
 
 .mortal {
@@ -36,12 +37,12 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-.boton {
+.boton-mortal {
   width: 100%;
   text-align: center;
 }
 
-.boton-volver {
+.boton-volver-mortal {
   background-color: #e96093;
   padding: 10px;
   font-family: Arial, Helvetica, sans-serif;
@@ -51,7 +52,7 @@ body {
 }
 
 .subti {
-  width: 10%;
+  display: inline-block;
   background-color: #e96093;
   color: white;
   font-family: arial;

@@ -29,7 +29,7 @@ body {
   margin: 0 8rem;
 }
 
-.mario {
+.mario-sec {
   background-color: white;
   padding: 11px;
   margin-bottom: 2rem;
@@ -48,7 +48,7 @@ body {
   font-size: small;
 }
 
-.mortal-kombat {
+.mortal-kombat-sec {
   background-color: white;
   padding: 11px;
   border-radius: 4px;
